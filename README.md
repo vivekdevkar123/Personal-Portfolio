@@ -1,11 +1,10 @@
-# PlayWithWord
+# Personal Portfolio
 
-The website is made from django by using bootstrap templates.
+The website is made from django, HTML, CSS and bootstrap templates.
 
 ## Feature
 
-In this website we can perform many operation on string like counting number of charactor in the text, capitalize the whole text, 
-reversing the whole string, removing punctuation and many more.
+In this website is like a Resume. I gave all information about me in this website by using my Development skill
 
 
 ## Usage
@@ -20,15 +19,17 @@ Please make sure to update tests as appropriate.
 # screenshots
 
 ### screenshot 1
-![screenshot](/ScreenShot/Screenshot_1.png)
+![screenshot](/Screenshot/Screenshot_1.png)
 
 ### screenshot 2
-![screenshot](/ScreenShot/Screenshot_2.png)
+![screenshot](/Screenshot/Screenshot_2.png)
+
+### screenshot 3
+![screenshot](/Screenshot/Screenshot_3.png)
 
 
 
 ## Contact
-[Linkedin](https://www.linkedin.com/in/vivekdevkar123)
+#### [Linkedin](https://www.linkedin.com/in/vivekdevkar123)
+#### [Email](mailto:mrvivekdevkar123@gmail.com)
 
-
-### Email : mrvivekdevkar123@gmail.com
